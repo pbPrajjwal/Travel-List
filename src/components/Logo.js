@@ -1,3 +1,3 @@
 export default function Logo() {
-  return <h1>🛩️ GET GOING 🎒</h1>;
+  return <h1>🛩️ GET GOING 🎒(by Prajjwal Bhardwaj)</h1>;
 }
